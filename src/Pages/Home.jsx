@@ -3,8 +3,7 @@
 const Home = () => {
   return (
     <div>
-      <h2>Esta es la página de inicio de mi  app</h2>
-      
+      <h2>Bienvenido a la página principal de la aplicación</h2>
     </div>
   )
 }

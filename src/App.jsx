@@ -4,7 +4,7 @@ import Navbar from './Components/Navbar/Navbar';
 import Footer from './Components/Footer/Footer';
 import Home from './Pages/Home';
 import About from './Pages/About';
-import Contacto from './Pages/Contacto';
+import Contact from './Pages/Contact';
 import { Routes,Route } from 'react-router-dom';
 
 
@@ -19,7 +19,7 @@ const App = () => {
 
         <Route path='/about' element={<About />} />
 
-        <Route path='/contacto' element={<Contacto/>} /> 
+        <Route path='/contact' element={<Contact/>} /> 
         
       </Routes> 
 

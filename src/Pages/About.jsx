@@ -3,7 +3,7 @@
 const About = () => {
   return (
     <div>
-      <h2>Esta es la página de enlace a la información de contactos</h2>
+      <h2>Aquí encontrarás toda la información para comunicarte con nosotros</h2>
     </div>
   )
 }
